@@ -16,8 +16,8 @@ RED = "\033[31m"
 RESET = "\033[0m"
 
 # Caminhos de arquivo (idealmente, mova para um config.py ou variáveis de ambiente)
-LISTA_TXT_PATH = "C:/Users/lipet/OneDrive/Área de Trabalho/2k24/lista.txt"
-APROVADAS_TXT_PATH = "C:/Users/lipet/OneDrive/Área de Trabalho/2k24/aprovadas.txt"
+LISTA_TXT_PATH = "/lista.txt"
+APROVADAS_TXT_PATH = "/aprovadas.txt"
 
 # Credenciais do Telegram (idealmente, mova para um config.py ou variáveis de ambiente)
 TELEGRAM_TOKEN = "7253379332:AAGQsrVV6m9nmPyYsmyGW7GKBiNxew-NQqM"
